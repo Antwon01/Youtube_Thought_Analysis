@@ -11,9 +11,9 @@ import csv
 
 
 # YouTube API Credentials
-YOUTUBE_API_KEY = 'AIzaSyBMSiEOiUKaTTKMfMVKJ2TfgNVAA2gOWMk'  
+YOUTUBE_API_KEY = 'your API'  
 # Other Configuration
-YOUTUBE_VIDEO_ID = 'bn0Kh9c4Zv4'  # Replace with the target YouTube video ID
+YOUTUBE_VIDEO_ID = 'Your video'  # Replace with the target YouTube video ID
 SEARCH_KEYWORD = 'great'  # (Optional) Keyword to filter comments
 LANGUAGE = 'en'  # Language for YouTube comments
 MAX_RESULTS = 1000  # Total number of comments to fetch
